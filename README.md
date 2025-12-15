@@ -335,10 +335,10 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 👨‍💻 Credits
 Developer
-Abhishuman Roy
+Arushi Sengupta & Abhishuman Roy
 
-GitHub: @abhishuman18
-Email: abhishumanr@gmail.com
+GitHub: @arushi23git & @abhishuman18
+Email: arushisenguptaofficial@gmail.com & abhishumanr@gmail.com
 
 Project Information
 
